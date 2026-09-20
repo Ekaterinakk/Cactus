@@ -31,4 +31,4 @@
 [Ссылка на репозиторий](https://github.com/Ekaterinakk/-API-Cactus-.git)
 
 :file_folder:
-[Исходный код]([https://github.com/Ekaterinakk/-API-Cactus-.git](https://github.com/Ekaterinakk/Code.git)
+[Исходный код](https://github.com/Ekaterinakk/Code.git)
