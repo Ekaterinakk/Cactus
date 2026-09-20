@@ -22,5 +22,7 @@
 Документация написана в MarkDown и хранится в Git.
 
 :paperclip:
-[Ссылка на репозиторий](https://github.com/Ekaterinakk/-API-Cactus-.git)
+[Ссылка на репозиторий]:(https://github.com/Ekaterinakk/-API-Cactus-.git)
 
+:file_folder:
+[Исходный код]:(https://github.com/Ekaterinakk/-API-Cactus-.git)
